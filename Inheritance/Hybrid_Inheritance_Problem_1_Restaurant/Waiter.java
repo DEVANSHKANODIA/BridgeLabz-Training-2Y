@@ -1,0 +1,1 @@
+public class Waiter extends Person implements Worker { public void performDuties(){} }

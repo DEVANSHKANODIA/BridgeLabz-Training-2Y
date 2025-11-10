@@ -1,0 +1,1 @@
+public class ElectricVehicle extends Vehicle {}

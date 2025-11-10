@@ -1,0 +1,1 @@
+public class Chef extends Person implements Worker { public void performDuties(){} }

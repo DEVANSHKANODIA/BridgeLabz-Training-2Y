@@ -1,0 +1,1 @@
+public class PetrolVehicle extends Vehicle implements Refuelable { public void refuel(){} }
