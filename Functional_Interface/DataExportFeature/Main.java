@@ -1,0 +1,1 @@
+interface Exporter{void export();default void exportToJSON(){System.out.println("JSON export");}}

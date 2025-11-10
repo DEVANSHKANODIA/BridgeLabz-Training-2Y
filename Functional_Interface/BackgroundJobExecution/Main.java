@@ -1,0 +1,1 @@
+public class Main{public static void main(String[]a){Runnable job=()->System.out.println("Job run");new Thread(job).start();}}

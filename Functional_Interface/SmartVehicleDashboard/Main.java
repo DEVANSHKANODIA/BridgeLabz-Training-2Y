@@ -1,0 +1,2 @@
+interface Vehicle{void displaySpeed();default void displayBattery(){System.out.println("No battery");}}
+class EV implements Vehicle{public void displaySpeed(){System.out.println("60km/h");}public void displayBattery(){System.out.println("80%");}}
