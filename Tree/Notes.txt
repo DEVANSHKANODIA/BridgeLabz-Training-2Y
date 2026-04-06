@@ -1,0 +1,4 @@
+DFS:
+    PostOrder: left,right,root
+    InOrder: left,root,right
+    PreOrder: root,left,right
